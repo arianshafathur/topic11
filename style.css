@@ -1,0 +1,229 @@
+body
+{
+    margin: 0;
+    font-family: Courier New;
+}
+
+/* GENERAL STYLE */
+
+.yellow
+{
+    background-color: #cff1ef;
+    color: #363636;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.content
+{
+    padding: 30px;
+    
+}
+
+.oa
+{
+    overflow: auto;
+}
+
+/* HEADER SECTION  */
+
+.header {
+    
+    padding: 0 50px;
+}
+
+.header-container {
+    padding: 20px 0;
+}
+
+.header-container img
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid #ffd;
+}
+
+.nav
+{
+    width: auto;
+    float: right;
+    padding: 20px 0;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: #363636 ;
+    margin: 0 8px;
+}
+
+.nav a:hover
+{
+    color: #00b0ff;
+}
+
+.name
+{
+    font-family: cursive;
+    letter-spacing: 3px;
+    font-size: 35pt;
+    text-align: center;
+    color: #363636;
+}
+
+.detail-name {
+    text-align: center;
+    color: #363636;
+    font-weight: 800;
+    font-size: 18pt;
+    letter-spacing: 3px;
+    font-style: italic;
+}
+
+.background-name
+{
+    text-align: center;
+    margin-top: -50px;
+}
+
+/* CONTENT 1 */
+
+.round-image img
+{
+    width: 170px;
+    border: 2px solid #222;
+    padding: 3px;
+    border-radius: 50%;
+}
+
+.title
+{
+    font-size: 20pt;
+    margin-top: 16px
+}
+
+.detail-1
+{
+    max-width: 720px;
+    margin: 16px auto;
+    line-height: 26px;
+}
+
+/* CONTENT 2 */
+.profile-title
+{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 24pt;
+}
+
+.profile
+{
+    margin-top: 50px;
+    min-height: 160px;
+    max-width: 840px;
+    margin: 50px auto;
+}
+
+.profile p
+{
+    line-height: 2;
+}
+
+.profile-kiri > div
+{
+    margin-left: 220px;
+}
+
+.profile-kanan > div
+{
+    margin-right: 220px;
+}
+
+.profile > img
+{
+    width: 120px;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.profile-kiri > img
+{
+    float: left;
+}
+
+.profile-kanan > img
+{
+    float: right;
+}
+
+.skill-logo
+{
+    background-color: #649d66;
+}
+
+.org-logo
+{
+    background-color: #ff6363;
+}
+
+.it-logo
+{
+    background-color: #f4a548;
+}
+
+/* FOOTER */
+.footer
+{
+    padding: 30px 80px;
+    background-color: #363636;
+}
+
+.footer a
+{
+    text-decoration: none;
+}
+
+.footer > div
+{
+    text-align: center;
+}
+
+.navbot a
+{
+    margin: 0 30px;
+    color: #fff;
+    font-size: 14pt;
+}
+
+.navbot a:hover
+{
+    color: #fb0;
+}
+
+.sosmed
+{
+    margin-top: 20px;
+}
+
+.sosmed a
+{
+    color: #aaa;
+    margin: 0 50px;
+    font-size: 14pt;
+}
+
+.sosmed a:hover
+{
+    color: #fff;
+}
+
+.footer hr
+{
+    width: 300px;
+    margin-top: 20px;
+}
